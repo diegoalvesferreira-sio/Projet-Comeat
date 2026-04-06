@@ -90,7 +90,21 @@ object Modele
         Repas( 5 , LocalDate.of( 2026 , 4 , 21 ) , 3 , specialites.get( 1 ) , utilisateurs.get( 1 )  ) ,
         Repas( 6 , LocalDate.of( 2026 , 4 , 21 ) , 4 , specialites.get( 4 ) , utilisateurs.get( 4 )  ) ,
         Repas( 8 , LocalDate.of( 2026 , 4 , 13 ) , 4 , specialites.get( 3 ) , utilisateurs.get( 1 )  ) ,
-        Repas( 7 , LocalDate.of( 2026 , 4 , 21 ) , 4 , specialites.get( 5 ) , utilisateurs.get( 1 )  )
+        Repas( 7 , LocalDate.of( 2026 , 4 , 21 ) , 4 , specialites.get( 5 ) , utilisateurs.get( 1 )  ),
+        Repas( 9  , LocalDate.of( 2026 , 4 , 8  ) , 3  , specialites.get( 0 ) , utilisateurs.get( 0 ) ) ,
+        Repas( 10 , LocalDate.of( 2026 , 4 , 9  ) , 5  , specialites.get( 0 ) , utilisateurs.get( 2 ) ) ,
+        Repas( 11 , LocalDate.of( 2026 , 4 , 10 ) , 4  , specialites.get( 1 ) , utilisateurs.get( 1 ) ) ,
+        Repas( 12 , LocalDate.of( 2026 , 4 , 11 ) , 6  , specialites.get( 1 ) , utilisateurs.get( 3 ) ) ,
+        Repas( 13 , LocalDate.of( 2026 , 4 , 12 ) , 2  , specialites.get( 2 ) , utilisateurs.get( 0 ) ) ,
+        Repas( 14 , LocalDate.of( 2026 , 4 , 14 ) , 8  , specialites.get( 2 ) , utilisateurs.get( 4 ) ) ,
+        Repas( 15 , LocalDate.of( 2026 , 4 , 15 ) , 3  , specialites.get( 3 ) , utilisateurs.get( 2 ) ) ,
+        Repas( 16 , LocalDate.of( 2026 , 4 , 16 ) , 5  , specialites.get( 4 ) , utilisateurs.get( 1 ) ) ,
+        Repas( 17 , LocalDate.of( 2026 , 4 , 22 ) , 4  , specialites.get( 4 ) , utilisateurs.get( 3 ) ) ,
+        Repas( 18 , LocalDate.of( 2026 , 4 , 23 ) , 7  , specialites.get( 5 ) , utilisateurs.get( 0 ) ) ,
+        Repas( 19 , LocalDate.of( 2026 , 4 , 24 ) , 3  , specialites.get( 5 ) , utilisateurs.get( 4 ) ) ,
+        Repas( 20 , LocalDate.of( 2026 , 4 , 25 ) , 6  , specialites.get( 6 ) , utilisateurs.get( 2 ) ) ,
+        Repas( 21 , LocalDate.of( 2026 , 4 , 26 ) , 4  , specialites.get( 6 ) , utilisateurs.get( 1 ) ) ,
+        Repas( 22 , LocalDate.of( 2026 , 4 , 27 ) , 5  , specialites.get( 0 ) , utilisateurs.get( 3 ) )
     )
 
     init {
